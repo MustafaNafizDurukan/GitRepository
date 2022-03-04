@@ -1,1 +1,1 @@
-Line replaced in master branch.
+Just another file in the root of the working directory. It was modified in the BR-3 branch.
